@@ -1,0 +1,39 @@
+.psw-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin: auto;
+
+    width: 500px;
+
+    text-align: center;
+
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.psw-container h2{
+    margin: 0;
+}
+
+.psw-container i{
+    margin-bottom: 20px;
+
+    font-size: 20px;
+}
+
+.btn{
+    padding: 10px;
+
+    border-radius: 8px;
+    
+    background-color: rgb(255, 255, 7);
+}
+
+.btn{
+    color: transparent;
+}
+
+.btn:hover{
+    color: red;
+}
